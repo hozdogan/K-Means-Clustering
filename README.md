@@ -6,4 +6,4 @@
 için ağırlık merkezleri yeniden düzenlenir.Bu işlem belirli sayıda tekrar edilerek sonunda iterasyonlardan en küçük ağırlık merkezine sahip iterasyon seçilir.
 
 
-![ağırlık merkezi](https://user-images.githubusercontent.com/61041060/98205933-124cdc00-1f4a-11eb-9dc0-d07bbc53bcc8.png)
+![ağırlık merkezi](https://user-images.githubusercontent.com/61041060/98898073-de2f6900-24bd-11eb-86c5-2f351438026c.png)
